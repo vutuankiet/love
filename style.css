@@ -1,0 +1,14 @@
+/* build your own custom Bootstrap theme:
+   https://themestr.app
+*/
+body{
+    background-image: url("https://scr.vn/wp-content/uploads/2020/07/Background-tr%C6%A1n-m%C3%A0u-h%E1%BB%93ng.jpeg");
+    background-size: cover;
+}
+#deny{
+    position:relative;
+    cursor: default;
+}
+.text-pink{
+    color:pink;
+}
